@@ -1,0 +1,73 @@
+{
+	"events": [
+		{
+			"id": 		1,
+			"title": 	"Scottish Cycling National Track Championships",
+			"slug":		"scottish-cycling-national-track-championships",
+			"venue":	"Emirates Arena",
+			"day":		"11",
+			"month": 	"Oct",
+			"date":   	"11th - 17th October 2013",
+			"cost":   	"£15 (£7 concession)",
+			"copy":   	"Throughout four days of competition, 11-13 October and 27 October, the Sir Chris Hoy Velodrome will play host to the championships, which forms part of the &pound;113million Emirates Arena, where riders will have the chance to compete for the acclaimed Scottish Championship titles. Some of the titles on offer include; Sprint, Team sprint and Keirin, Madison, Pursuits, Points races and Time Trials.",
+			"image":  	"images/cycling.png"
+		},
+		{
+			"id": 		2,
+			"title": 	"Glasgow European Open Judo",
+			"slug":		"glasgow-european-open-judo",
+			"venue":	"Emirates Sports Arena",
+			"day":		"19",
+			"month": 	"Oct",
+			"date":   	"19th - 20th October 2013",
+			"cost":   	"£7.50 to £30.00",
+			"copy":   	"Biggest judo event of the year",
+			"image":  	"http://events.glasgowlife.org.uk/file/download/dcd08f3e-18bc-4501-85bd-a20d00b22f66"
+		},
+		{
+			"id": 		3,
+			"title": 	"Glasgow Fireworks",
+			"slug":		"glasgow-fireworks",
+			"venue":	"Glasgow Green",
+			"day":		"5",
+			"month": 	"Nov",		
+			"date":   	"5th November 2013",
+			"cost":   	"Free",
+			"copy":   	"Glasgow's biggest and best free fireworks display returns on Tuesday 5th November.",
+			"image":  	"http://events.glasgowlife.org.uk/file/download/30812aaf-8bb7-4a4f-9d1a-a24300eae6e3"
+		}
+	],
+	"event-types": [
+		"Arts (11)",
+		"Communities (15)",
+		"Libraries (192)",
+		"Major Events (6)",
+		"Museums (186)",
+		"Music (79)",
+		"Sport (47)",
+		"Young Glasgow (168)"
+	],
+	"for-who": [
+		"Adults (202)",
+		"Families (129)",
+		"Kids (40)",
+		"Open to All (156)",
+		"Young People (40)"
+	],
+	"location": [
+		"East Glasgow (44)",
+		"Glasgow City Centre (206)",
+		"North Glasgow (7)",
+		"South East Glasgow (1)",
+		"South Glasgow (85)",
+		"West Glasgow (89)"
+	],
+	"booking": [
+		"Free (130)",
+		"Free - Drop-in - no ticket required (250)",
+		"Free - ticket required (1)",
+		"Free for Glasgow Young Scot or Kidz Card Holders only (6)",
+		"Payment required (134)"
+	]
+	
+}

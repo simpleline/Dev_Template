@@ -1,0 +1,75 @@
+body{
+	
+	color:#333;
+	font-size: 100%;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5em;
+	
+}
+
+h1, h2, h3, h4, h5, h6{
+	
+	font-weight:bold;
+	margin:1em 0;
+	line-height: 1.5em;
+	
+}
+
+h1{
+	
+	font-size: 1.75em;
+	
+}
+
+h2{
+	
+	font-size:1.5em;
+	
+}
+
+h3{
+	
+	font-size:1.25em;
+	
+}
+
+h4{
+	
+	text-transform: uppercase;
+	
+	
+} 
+
+h5, h6{
+	
+	font-size:1em;	
+}
+
+p, li, img, blockquote{
+	
+	margin-bottom:1em;
+	line-height: 1.75em;
+	
+}
+
+hr{
+	
+	border-bottom:1px solid $lightgrey;
+	clear:both;
+	display:block;
+	height:0;
+	margin-bottom:1em;
+	
+}
+
+p.intro{
+	
+	font-size: 1.125em;
+	
+}
+
+p.strapline{
+	
+	font-weight: bold;
+	
+}

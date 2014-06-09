@@ -1,0 +1,92 @@
+img{
+	width:100%;
+}
+
+.wrap{
+	
+	max-width:1140px;
+	
+	margin:0 1em;
+	position:relative;
+	
+	@include respond-min(30em){
+		
+		margin:0 auto;
+		
+	}
+	
+}
+
+#nav .wrap, #subnav .wrap{
+	
+	margin:0;
+		
+	@include respond-min(30em){
+		
+		margin:0 auto;
+		
+	}
+	
+}
+
+.hide_small{
+	
+	display:none;
+	
+	@include respond-min(30em){
+		
+		display: inline;
+		
+	}
+	
+}
+
+.long_ad{
+	
+	margin:2em 0;
+	
+}
+
+.fancy_content{
+	
+	display:none;
+	
+}
+
+i.fa{
+	
+	margin:0;
+	
+}
+
+.modal{
+	
+	overflow:hidden;
+	padding:0.5em;
+	
+}
+
+.toggle_checkboxes{
+	
+	background:url(../images/open.png) right center no-repeat;
+	display: block;
+	
+	&:hover{
+	
+		cursor: pointer;	
+		
+	}
+	
+}
+
+.checkboxes{
+	
+	display: block;
+	
+	&.close{
+		
+		display:none;
+		
+	}
+	
+}

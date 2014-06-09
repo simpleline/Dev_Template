@@ -1,0 +1,34 @@
+$old-ie: true;
+$fix-mqs: 60em;
+@import 'style';
+
+img { 
+	-ms-interpolation-mode: bicubic;  
+	}
+
+.old .clearfix {
+    zoom: 1;
+	}
+
+.old * {
+	behavior:url(/Content/css/boxsizing.htc);
+	}
+	
+.old pre,
+.old code,
+.old kbd,
+.old samp,
+.old tt {
+	font-size: 108%;
+    }
+    
+.old legend {
+    margin-left: -7px;
+	}
+
+.old button,
+.old input[type="button"],
+.old input[type="reset"],
+.old input[type="submit"] {
+    overflow: visible;
+	}
